@@ -1,7 +1,10 @@
 <h1 align="center">Hola!, Soy <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Leo</a></h1>
-<h3 align="center">Un programador Autodidacta Mern!&#127470;&#127475</h3>
 
+<h3 align="center">Un programador Autodidacta Mern!&#127470;&#127475</h3>
+<br/>
+<br/>
+<br/>
 
 
 <a target="_blank" align="center">
